@@ -16,7 +16,7 @@ Incluye prácticas de **SEO On-Page**, optimización de **rendimiento web** y es
 ┣ 📜 script.js         # Scripts JS optimizados
 ┗ 📂 img               # Imágenes optimizadas (WebP, comprimidas)
 
-````
+```
 
 ---
 
