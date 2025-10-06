@@ -41,7 +41,7 @@ Incluye prácticas de **SEO On-Page**, optimización de **rendimiento web** y es
   <meta property="og:description" content="Explora la potencia y diseño de la nueva MacBook Air M4. ¡Conoce más aquí!">
   <meta property="og:image" content="img/macbook-air-m4.jpg">
   <meta property="og:type" content="website">
-````
+```
 
 * Títulos y encabezados organizados jerárquicamente (`<h1>`, `<h2>`, `<h3>`).
 * Optimización de la etiqueta `<title>`.
@@ -98,7 +98,7 @@ Incluye prácticas de **SEO On-Page**, optimización de **rendimiento web** y es
   * **Beneficios o características destacadas**
   * **Imagen del producto optimizada para SEO**
   * **Botón de CTA atractivo y probado en distintas versiones**
-* Interactividad básica en `script.js` (animaciones ligeras y scroll).
+* Interactividad básica en `script.min.js` (animaciones ligeras y scroll).
 
 ---
 
@@ -107,7 +107,7 @@ Incluye prácticas de **SEO On-Page**, optimización de **rendimiento web** y es
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/LainerDonet/Modulo39_EBAC
+   git clone https://github.com/LainerDonet/Modulo41_EBAC
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. Prueba la responsividad en distintos dispositivos.
